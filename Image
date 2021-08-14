@@ -1,0 +1,10 @@
+echo "# mypracticestuff" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/heyalekhya/mypracticestuff.git
+git push -u origin main
+
+![img1](https://user-images.githubusercontent.com/80804856/129450061-a687000b-d8e5-4555-84c5-d73474482a93.jpg)
+
